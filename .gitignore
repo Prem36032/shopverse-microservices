@@ -1,0 +1,42 @@
+# ========== JARs & Builds ==========
+*.jar
+*.war
+*.ear
+*.zip
+target/
+**/target/
+build/
+out/
+**/m2/
+
+# ========== Maven ==========
+.mvn/wrapper/maven-wrapper.jar
+settings.xml
+**/settings.xml
+
+# ========== IDE ==========
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# ========== Environment ==========
+.env
+.env.*
+*.env.local
+
+# ========== OS ==========
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+
+# ========== Logs/DB ==========
+*.log
+logs/
+*.db
+*.sqlite
+
+# ========== Docker ==========
+.dockerignore
