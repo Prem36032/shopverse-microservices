@@ -52,7 +52,7 @@ Zipkin (:9411)                  — Distributed tracing across services
 ### Run Everything
 
 ```bash
-git clone https://github.com/Premkumar36032/shopverse-microservices.git
+git clone https://github.com/Prem36032/shopverse-microservices.git
 cd shopverse-microservices
 docker-compose up -d
 ```
